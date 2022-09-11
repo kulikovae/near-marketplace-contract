@@ -2,7 +2,7 @@
   "name": "near-marketplace-contract",
   "version": "1.0.0",
   "description": "near-sm",
-  "main": "index.js",
+  "main": "assembly/index.ts",
   "repository": "https://github.com/kulikovae/near-marketplace-contract.git",
   "author": "kulikovae <forkulikova@gmail.com>",
   "license": "MIT",
